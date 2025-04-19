@@ -1,6 +1,4 @@
-# Homework 2
-
-# Count Positive Numbers in Scheme
+# Homework 2 - Count Positive Numbers in Scheme
 
 This project is a simple functional programming exercise written in Scheme. It demonstrates core functional programming principles such as recursion, predicate functions, and immutability. The main objective is to count the number of positive numbers in a list.
 
